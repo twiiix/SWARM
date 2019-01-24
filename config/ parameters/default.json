@@ -2,33 +2,31 @@
     "Favor_Coins":  "No",
     "AltWallet2":  "",
     "Poolname":  [
-                     "nlpool",
-                     "blockmasters",
-                     "ahashpool"
+                     "zpool"
                  ],
-    "Rigname2":  "SWARM",
+    "Rigname2":  "",
     "SWARM_Mode":  "No",
-    "Cuda":  "10",
+    "Cuda":  "",
     "Passwordcurrency3":  [
-                              "BTC"
+                              ""
                           ],
     "Currency":  [
-                     "USD"
+                     ""
                  ],
     "Nicehash_Wallet2":  "",
     "AltWallet1":  "",
-    "Stat_Coin":  "Live",
+    "Stat_Coin":  "",
     "Passwordcurrency2":  [
-                              "BTC"
+                              ""
                           ],
-    "WattOMeter":  "Yes",
-    "Rigname3":  "SWARM",
+    "WattOMeter":  "no",
+    "Rigname3":  "",
     "AltPassword2":  "",
-    "Location":  "US",
-    "Lite":  "No",
-    "Threshold":  0.02,
+    "Location":  "",
+    "Lite":  "",
+    "Threshold":  ,
     "AltPassword3":  [
-                         "BTC"
+                         ""
                      ],
     "CPUOnly":  "No",
     "Wallet":  "Yes",
@@ -42,26 +40,26 @@
     "Passwordcurrency1":  [
                               "BTC"
                           ],
-    "CPUThreads":  1,
+    "CPUThreads":  0,
     "Nicehash_Wallet1":  "",
     "Timeout":  24,
     "Benchmark":  190,
     "PoolBanCount":  2,
-    "Platform":  "windows",
+    "Platform":  "linux",
     "Proxy":  "",
     "AlgoBanCount":  3,
-    "Rigname1":  "SWARM",
+    "Rigname1":  "Rig1",
     "API_Key":  "",
     "GPUDevices3":  "",
     "API_ID":  0,
     "Stat_Algo":  "Live",
     "Nicehash_Wallet3":  "",
-    "Donate":  ".5",
+    "Donate":  ".01",
     "Wallet3":  "",
     "AltPassword1":  "",
     "Auto_Coin":  "No",
     "Type":  [
-                 "NVIDIA1"
+                 "AMD1"
              ],
     "Conserve":  "No",
     "GPUDevices1":  "",
@@ -82,7 +80,7 @@
     "PoolBans":  "Yes",
     "Update":  "Yes",
     "Switch_Threshold":  "0",
-    "API":  "Yes",
+    "API":  "no",
     "CLPlatform":  "",
     "Port":  4099,
     "Remote":  "No",
