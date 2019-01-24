@@ -1,3 +1,7 @@
+l'ouverture de se fork est du l'adaptation des fichiers de configs pour mon rig avant installation pour accelerer l'instalation et n'avoir que les miners qui m'interesses.
+
+julienpelsener@gmail.com
+
 **SWARM**
 
  **Hybrid Profit Switching Miner For HiveOS & Windows.**
