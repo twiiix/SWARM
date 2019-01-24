@@ -1,15 +1,15 @@
 {
   "note": "This is not implemented yet",
   "Pool_Priorities": {
-    "ahashpool": "1",
-    "blazpool": "1",
+    "ahashpool": "2",
+    "blazpool": "2",
     "blockmasters": "1",
     "fairpool": "1",
-    "hashrefinery": "1",
-    "nicehash": "1",
+    "hashrefinery": "2",
+    "nicehash": "3",
     "nlpool": "1",
-    "phiphipool": "1",
-    "starpool": "1",
+    "phiphipool": "3",
+    "starpool": "3",
     "zpool": "1"
   },
   "Priorities": {
