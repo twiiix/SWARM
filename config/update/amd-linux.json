@@ -10,84 +10,7 @@
       "version": "12.0",
       "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v4.0/Claymore-Linux.tar.gz" 
      },
-
-     "ehssand_amd": {
-      "name": "ehssand_amd",
-      "type": "amd",
-      "path1": ".\\bin\\ehssand_amd-1\\sgminer",
-      "path2": ".\\bin\\ehssand_amd-2\\sgminer",
-      "path3": ".\\bin\\ehssand_amd-3\\sgminer",
-      "minername": "sgminer.exe",
-      "version": "1",
-      "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/ehssand-linux.tar.gz"
-    },
-
-   "phoenix_amd": {
-        "name": "phoenix_amd",
-        "type": "amd",
-        "path1": ".\\bin\\phoenix-amd-1\\PhoenixMiner",
-        "path2": ".\\bin\\phoenix-amd-2\\PhoenixMiner",
-        "path3": ".\\bin\\phoenix-amd-3\\PhoenixMiner",
-        "minername": "PhoenixMiner",
-        "version": "4.0b",
-        "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/phoenix-linux.tar.gz" 
-     },
-
-  "lolminer": {
-    "name": "lolminer",
-    "type": "amd",
-    "path1": ".\\bin\\lolMiner-AMD-1\\lolMiner",
-    "path2": ".\\bin\\lolMiner-AMD-2\\lolMiner",
-    "path3": ".\\bin\\lolMiner-AMD-3\\lolMiner",
-    "minername": "lolMiner",
-    "version": "0.7",
-    "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/lolminer-linux.tar.gz"
-     },
-
-  "avermore": {
-      "name": "avermore",
-      "type": "amd",
-      "path1": ".\\bin\\avermore-1\\sgminer",
-      "path2": ".\\bin\\avermore-2\\sgminer",
-      "path3": ".\\bin\\avermore-3\\sgminer",
-      "minername": "sgminer",
-      "version": "1.4.1",
-      "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/avermore-Linux.tar.gz" 
-     },
-
-  "sgminer-vii": {
-      "name": "sgminer-vii",
-      "type": "amd",
-      "path1": ".\\bin\\sgminer-vii-1\\sgminer",
-      "path2": ".\\bin\\sgminer-vii-2\\sgminer",
-      "path3": ".\\bin\\sgminer-vii-3\\sgminer",
-      "minername": "sgminer",
-      "version": "1.0.5",
-      "uri": "https://github.com/MaynardMiner/sgminer-VII/releases/download/v1.0.9/sgminer-vii.tar.gz" 
-     },
-
-  "sgminerhex": {
-      "name": "sgminerhex",
-      "type": "amd",
-      "path1": ".\\bin\\sgminerhex-1\\sgminer",
-      "path2": ".\\bin\\sgminerhex-2\\sgminer",
-      "path3": ".\\bin\\sgminerhex-3\\sgminer",
-      "minername": "sgminer",
-      "version": "0.4",
-      "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/sgminer-hex-linux.tar.gz" 
-     },
-
-  "lyclminer": {
-      "name": "lyclminer",
-      "type": "amd",
-      "path1": ".\\bin\\lyclminer-1\\lyclMiner",
-      "path2": ".\\bin\\lyclminer-2\\lyclMiner",
-      "path3": ".\\bin\\lyclminer-3\\lyclMiner",
-      "minername": "lyclMiner",
-      "version": "0.1.5",
-      "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/lyclMiner-linux.tar.gz" 
-     },
-
+  
   "teamredminer": {
       "name": "teamredminer",
       "type": "amd",
@@ -120,16 +43,7 @@
       "version": "0.15.1.3",
       "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/wildrig-linux.tar.gz" 
      },
-     "fancyix": {
-        "name": "fancyix",
-        "type": "amd",
-        "path1": ".\\bin\\fancyix-1\\sgminer",
-        "path2": ".\\bin\\fancyix-2\\sgminer",
-        "path3": ".\\bin\\fancyix-3\\sgminer",
-        "minername": "sgminer",
-        "version": "beta5fp4",
-        "uri": "https://github.com/MaynardMiner/MM.Compiled-Miners/releases/download/v5.0/fancyIX-linux.tar.gz" 
-       },
+ 
        "xmrig": {
         "name": "xmrig",
         "type": "amd",
