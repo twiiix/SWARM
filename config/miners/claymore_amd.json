@@ -10,7 +10,7 @@
       "export GPU_MAX_ALLOC_PERCENT=100"
     ],
     "commands": {
-      "ethash": "",
+      "ethash": "-tt 1",
       "daggerhashimoto": "-esm 3 -estale 0",
       "dagger": "-esm 2"
     },
@@ -26,28 +26,28 @@
     },
     "oc": {
       "ethash": {
-        "dpm": "",
-        "v": "",
-        "core": "",
-        "mem": "",
-        "mdpm": "",
-        "fans": ""
+        "dpm": "3",
+        "v": "830,830,900",
+        "core": "1150",
+        "mem": "2200",
+        "mdpm": "1",
+        "fans": "27,27,37"
       },
       "daggerhashimoto": {
-        "dpm": "",
-        "v": "",
-        "core": "",
-        "mem": "",
-        "mdpm": "",
-        "fans": ""
+        "dpm": "3",
+        "v": "830,830,900",
+        "core": "1150",
+        "mem": "2200",
+        "mdpm": "1",
+        "fans": "27,27,37"
       },
       "dagger": {
-        "dpm": "",
-        "v": "",
-        "core": "",
-        "mem": "",
-        "mdpm": "",
-        "fans": ""
+        "dpm": "3",
+        "v": "830,830,900",
+        "core": "1150",
+        "mem": "2200",
+        "mdpm": "1",
+        "fans": "27,27,37"
       }
     }
   }
