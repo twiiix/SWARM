@@ -17,7 +17,7 @@
     },
     "difficulty": {
       "phi2": "",
-      "lyra2z": "",
+      "lyra2z": "8",
       "cryptonightv8": "",
       "lyra2re": ""
     },
@@ -37,20 +37,20 @@
         "fans": ""
       },
       "lyra2z": {
-        "dpm": "",
-        "v": "",
-        "core": "",
-        "mem": "",
-        "mdpm": "",
-        "fans": ""
+        "dpm": "3 3 3",••••••••
+        "v": "850",
+        "core": "1200",
+        "mem": "1300",
+        "mdpm": "1",
+        "fans": "27 27 37"
       },
       "cryptonightv8": {
         "dpm": "",
-        "v": "",
-        "core": "",
-        "mem": "",
-        "mdpm": "",
-        "fans": ""
+        "v": "975 855 900",
+        "core": "1250",
+        "mem": "2100 2100 2100",
+        "mdpm": "1",
+        "fans": "27 27 37"
       },
       "lyra2re": {
         "dpm": "",
